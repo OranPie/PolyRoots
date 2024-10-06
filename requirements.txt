@@ -1,0 +1,4 @@
+wxPython==4.1.1
+numpy
+matplotlib
+pytest
